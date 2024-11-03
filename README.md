@@ -13,7 +13,7 @@ This board is compatible with these three models:
 
 ## HOW DOES IT WORK?
 
-The **USB-C Power Delivery technology (USB-C PD)** allows for communication between the device and the charger, enabling the negotiation of the voltage to be supplied through the USB-C cable. In this case, the microchip included in this board is configured to request 12V, signaling to the charger that it requires 12V to operate. If the charger is compatible, it will supply the requested voltage. If it’s not compatible, nothing will happen, and the Nintendo Wii won’t be able to power on.
+The **USB-C Power Delivery technology** (**USB-C PD**) allows for communication between the device and the power supply(charger), enabling the negotiation of the voltage to be supplied through the USB-C cable. In this case, the microchip included on this board is configured to request 12V or 15V**(1)**, signaling to the charger that it requires 12V or 15V**(1)** to run on. If the charger is compatible, it will supply the requested voltage. If it’s not compatible, nothing will happen, and the Nintendo Wii won’t power on. **(1)** The circuit has a selection jumper; if you solder it in one position, the circuit will require 12V, and if you solder it in the other position, it will require 15V from the power supply.
 
 ![WII](https://raw.githubusercontent.com/giltesa/Nintendo-Wii-USB-C-Kit/master/4.%20Photos/Nintendo-Wii-USB-C-Kit_1.jpg)
 ![WII](https://raw.githubusercontent.com/giltesa/Nintendo-Wii-USB-C-Kit/master/4.%20Photos/Nintendo-Wii-USB-C-Kit_2.jpg)
