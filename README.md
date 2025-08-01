@@ -18,8 +18,8 @@ The **USB-C Power Delivery technology** (**USB-C PD**) allows for communication 
 
  **(1)** The circuit has a selection jumper; if you solder it in one position, the circuit will require 12v, and if you solder it in the other position, it will require 15v from the power supply.
 
-![WII](https://raw.githubusercontent.com/giltesa/Nintendo-Wii-USB-C-Kit/master/4.%20Photos/Nintendo-Wii-USB-C-Kit_1.jpg)
-![WII](https://raw.githubusercontent.com/giltesa/Nintendo-Wii-USB-C-Kit/master/4.%20Photos/Nintendo-Wii-USB-C-Kit_3.jpg)
+![WII](https://raw.githubusercontent.com/giltesa/Nintendo-Wii-USB-C-Kit/master/4.%20Photos/Nintendo-Wii-USB-C-Kit-v1.0_1.jpg)
+![WII](https://raw.githubusercontent.com/giltesa/Nintendo-Wii-USB-C-Kit/master/4.%20Photos/Nintendo-Wii-USB-C-Kit-v1.0_3.jpg)
 
 
 ## Would you like it?
